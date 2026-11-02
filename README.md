@@ -36,4 +36,4 @@ Make sure you have the [.NET SDK](https://dotnet.microsoft.com/) installed on yo
 
 1. Clone the repository or download the source code:
    ```bash
-   git clone <repository-url>
+   git clone [https://github.com/munozjh/MiniProject2L4.git](https://github.com/munozjh/MiniProject2L4.git)
